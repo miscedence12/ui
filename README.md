@@ -20,7 +20,7 @@ pip install PyQt5== 5.15.4 -i https://pypi.douban.com/simple
 pip install PyQt5-tools -i https://pypi.douban.com/simple
 ```
 
-Note: 作者在装ubuntu20.04的时候发现系统好像自带pyqt5，如果运行报没有 PyQt5的错，就自行进行安装。
+Note: 作者在装ubuntu20.04的时候发现系统好像自带pyqt5，如果运行报了没有 PyQt5模块的错，就自行进行安装。
 
 3、mysql服务安装
 
